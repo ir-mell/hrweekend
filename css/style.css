@@ -487,7 +487,7 @@ input, button, textarea {
 
 .trener-slides-title {
     background-color: #fff;
-	margin-bottom: 40px;
+	margin-bottom: 15px;
 }
 
 .ts-title {
@@ -497,28 +497,33 @@ input, button, textarea {
     font-weight: 700;
     color: #e85e47;
     font-size: 60px;
+    margin-top: 55px;
     text-shadow: 0px 2px 0px #b83a2f;
 }
 
 .trener-slides {
     background-color: #fff!important;
-    background: url(../images/slides-line-3.png) repeat-x 0 0;
+    background: url(../images/slides-kub.png) repeat 0 0;
 }
 
 .trener-slides .center-wrapper {
   margin: 0 auto;
-  width: 1000px;
+  text-align: center;
 }
 
-.trener-slides ul{
-  padding-top: 5%;
-  padding-bottom: 5%;
+.trener-slides .string1{
+    padding-top: 45px;
+}
+
+.trener-slides .string2{
+    margin: 0 auto;
+    width: 71%;
 }
 
 .trener-slides ul li{
   display: inline-block;
-  padding-left: 4%;
-  padding-right: 4%;
+  padding-left: 2%;
+  padding-right: 2%;
 }
 
 .trener-slides ul li a img{
@@ -532,7 +537,7 @@ input, button, textarea {
 
 .trener-slides ul li a p{
   padding-bottom: 30px;
-  max-width: 250px;
+  max-width: 247px;
   text-align: center;
 }
 
@@ -897,7 +902,7 @@ h2 {
 }
  
 .block-gf-title .gf-title{
-  padding-top: 10px;
+  padding-top: 31px;
 }
 
 .redBorder {
